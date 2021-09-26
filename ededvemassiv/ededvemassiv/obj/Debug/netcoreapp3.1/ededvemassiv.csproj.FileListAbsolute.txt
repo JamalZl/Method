@@ -1,0 +1,14 @@
+C:\Users\User\Documents\C#\ededvemassiv\ededvemassiv\bin\Debug\netcoreapp3.1\ededvemassiv.exe
+C:\Users\User\Documents\C#\ededvemassiv\ededvemassiv\bin\Debug\netcoreapp3.1\ededvemassiv.deps.json
+C:\Users\User\Documents\C#\ededvemassiv\ededvemassiv\bin\Debug\netcoreapp3.1\ededvemassiv.runtimeconfig.json
+C:\Users\User\Documents\C#\ededvemassiv\ededvemassiv\bin\Debug\netcoreapp3.1\ededvemassiv.runtimeconfig.dev.json
+C:\Users\User\Documents\C#\ededvemassiv\ededvemassiv\bin\Debug\netcoreapp3.1\ededvemassiv.dll
+C:\Users\User\Documents\C#\ededvemassiv\ededvemassiv\bin\Debug\netcoreapp3.1\ededvemassiv.pdb
+C:\Users\User\Documents\C#\ededvemassiv\ededvemassiv\obj\Debug\netcoreapp3.1\ededvemassiv.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#\ededvemassiv\ededvemassiv\obj\Debug\netcoreapp3.1\ededvemassiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\C#\ededvemassiv\ededvemassiv\obj\Debug\netcoreapp3.1\ededvemassiv.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C#\ededvemassiv\ededvemassiv\obj\Debug\netcoreapp3.1\ededvemassiv.AssemblyInfo.cs
+C:\Users\User\Documents\C#\ededvemassiv\ededvemassiv\obj\Debug\netcoreapp3.1\ededvemassiv.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\ededvemassiv\ededvemassiv\obj\Debug\netcoreapp3.1\ededvemassiv.dll
+C:\Users\User\Documents\C#\ededvemassiv\ededvemassiv\obj\Debug\netcoreapp3.1\ededvemassiv.pdb
+C:\Users\User\Documents\C#\ededvemassiv\ededvemassiv\obj\Debug\netcoreapp3.1\ededvemassiv.genruntimeconfig.cache
