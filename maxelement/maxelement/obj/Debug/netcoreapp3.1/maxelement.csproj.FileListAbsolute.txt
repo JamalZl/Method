@@ -1,0 +1,14 @@
+C:\Users\User\Documents\C#\maxelement\maxelement\obj\Debug\netcoreapp3.1\maxelement.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#\maxelement\maxelement\obj\Debug\netcoreapp3.1\maxelement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\C#\maxelement\maxelement\obj\Debug\netcoreapp3.1\maxelement.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C#\maxelement\maxelement\obj\Debug\netcoreapp3.1\maxelement.AssemblyInfo.cs
+C:\Users\User\Documents\C#\maxelement\maxelement\obj\Debug\netcoreapp3.1\maxelement.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\maxelement\maxelement\bin\Debug\netcoreapp3.1\maxelement.exe
+C:\Users\User\Documents\C#\maxelement\maxelement\bin\Debug\netcoreapp3.1\maxelement.deps.json
+C:\Users\User\Documents\C#\maxelement\maxelement\bin\Debug\netcoreapp3.1\maxelement.runtimeconfig.json
+C:\Users\User\Documents\C#\maxelement\maxelement\bin\Debug\netcoreapp3.1\maxelement.runtimeconfig.dev.json
+C:\Users\User\Documents\C#\maxelement\maxelement\bin\Debug\netcoreapp3.1\maxelement.dll
+C:\Users\User\Documents\C#\maxelement\maxelement\bin\Debug\netcoreapp3.1\maxelement.pdb
+C:\Users\User\Documents\C#\maxelement\maxelement\obj\Debug\netcoreapp3.1\maxelement.dll
+C:\Users\User\Documents\C#\maxelement\maxelement\obj\Debug\netcoreapp3.1\maxelement.pdb
+C:\Users\User\Documents\C#\maxelement\maxelement\obj\Debug\netcoreapp3.1\maxelement.genruntimeconfig.cache
